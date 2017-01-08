@@ -4,7 +4,7 @@
 
 >##Steps :
 
->>1. Create a Git Project     : git init
->>2. Pull Github Repo         : git pull <repo_url>
->>3. Install dependencies     : npm install
->>4. Start Project            : npm start
+>1. Create a Git Project     : git init
+>2. Pull Github Repo         : git pull <repo_url>
+>3. Install dependencies     : npm install
+>4. Start Project            : npm start
